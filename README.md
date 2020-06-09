@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/sreejanyc0514/GitHub_CI/_apis/build/status/sreejaptfa.calculator?branchName=master)](https://dev.azure.com/sreejanyc0514/GitHub_CI/_build/latest?definitionId=1&branchName=master)
